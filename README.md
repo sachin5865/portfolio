@@ -1,6 +1,4 @@
 
-View live demo -> https://harsh-kain.github.io/portfolio_project/
-
 This project is a portfolio where a user can showcase their skills in front of the job interview. And update their skills which he/she currently working on and which project they recently completed.
 It is helpful for jobs and interviews.
 
